@@ -1,0 +1,23 @@
+body{
+    background-image: url('imagens/fundo.png')
+}
+
+#menu{
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+#conteudo{
+    background-color: yellow;
+    font-family: 'Times New Roman', Times, serif;   
+}
+
+h1{
+    color: yellow;
+}
+
+h6{
+    text-align: center;
+}
