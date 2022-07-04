@@ -24,7 +24,10 @@ h6{
     text-align: center;
 }
 
-.imagens_publicitarias{
-  border: 1000px;
-  border-color: black;
+.campanhas_publicitarias{
+  border: 10px solid black;
+}
+
+.contato{
+  font-weight: bold;
 }
